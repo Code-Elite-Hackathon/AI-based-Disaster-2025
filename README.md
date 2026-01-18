@@ -5,7 +5,7 @@ markdown
 Run
 Copy code
 # Project Suraksha
-Project ka Description
+Description of project
 Example in short what actual work of suraksha project.
 
 markdown
